@@ -1,0 +1,8 @@
+{
+  "name": "viktorasJ/first_package",
+  "autoload": {
+    "psr-0" : {
+      "ViktorasJ" : "src"
+    }
+  }
+}

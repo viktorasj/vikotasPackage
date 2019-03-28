@@ -1,6 +1,7 @@
 <?php
 
-namespace Viktoras\Package;
+namespace ViktorasJ;
+
 
 class FirstPackage
 {
